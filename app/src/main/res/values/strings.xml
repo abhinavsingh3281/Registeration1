@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registeration</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="e_mail">E-mail</string>
+    <string name="student_registration">Student Registration</string>
+    <string name="sign_up">Sign up</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="name">Name</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35453908634",
+    "firebase_url": "https://registeration-master.firebaseio.com",
+    "project_id": "registeration-master",
+    "storage_bucket": "registeration-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35453908634:android:673b85af3d0c73affa1123",
+        "android_client_info": {
+          "package_name": "com.example.registeration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35453908634-fkl9ddnhk8uf68eno94e2nsqlrhld2gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registeration",
+            "certificate_hash": "967d28622f15e40c8fa50f54807ea5c2111b8177"
+          }
+        },
+        {
+          "client_id": "35453908634-3n2as1evemlto6e33k3odoh0b2j51d67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKrlhoJkjBYDYFUgAXkHXgvY5h76KmnOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35453908634-3n2as1evemlto6e33k3odoh0b2j51d67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
